@@ -2,7 +2,7 @@
 
 cP Starter is a base style intended for designers, developers, server admins, resellers, and/or anyone who isn’t afraid to code.  It is a professional, yet minimalistic approaches that can be used as is or adapted to match your company’s branding and logo. 
 
-If you're looking for a dark version, visit cP Starter Style - Dark.
+If you're looking for a DARK version, visit [cP Starter Dark](https://github.com/longster/cP-Starter-Dark).
 
 > ###cP Starter is intended for you to modify the appearance of the cPanel interface and kickstart your own custom style. 
 
@@ -12,16 +12,16 @@ You’ll want to identify the type of role that best suits your needs in order t
 
 1. Download and uncompress the zip files
 
-2. Upload (via FTP) the folder “cP_Starter_Light” and place them below the directory “styled” (Note: if the directory folders do not exist, create them in the right order): 
+2. Upload (via FTP) all of the files and place them under “cP_Starter_Light” folder below the directory “styled” (Note: if the directory folders do not exist, create them in the right order): 
 
     - **Server**: 
-        + `/var/cpanel/customizations/styled/cP_Starter_Light`
+        + `/var/cpanel/customizations/styled/cP_Starter_Light/`
         
     - **Reseller**: 
-        + `var/cpanel/reseller/styled/cP_Starter_Light`
+        + `var/cpanel/reseller/styled/cP_Starter_Light/`
         
     - **cPanel User**: 
-        + `/home/username/var/cpanel/styled/cP_Starter_Light` (Note: username - represents the cPanel account's username)
+        + `/home/username/var/cpanel/styled/cP_Starter_Light/` (Note: username - represents the cPanel account's username)
 
 3. Generate custom icons via command line (Note: this is optional as it replaces existing icons): 
 
