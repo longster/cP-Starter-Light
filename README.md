@@ -6,7 +6,7 @@ If you're looking for a DARK version, visit [cP Starter Dark](https://github.com
 
 
 
-##Custom Style Installation##
+###Custom Style Installation###
 cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of role that best suits your needs in order to complete the installation.  
 
 1. Download and extract the files
