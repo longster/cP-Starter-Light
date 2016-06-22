@@ -5,6 +5,7 @@ cP Starter is intended for you to modify the appearance of the cPanel interface 
 If you're looking for a DARK version, visit [cP Starter Dark](https://github.com/longster/cP-Starter-Dark).
 
 
+--------------------------
 
 ###Custom Style Installation###
 cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of role that best suits your needs in order to complete the installation.  
@@ -56,6 +57,7 @@ cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of r
 
 If you see any incorrect information, please contact me or open an issue. Thanks!
 
+--------------------------
 
 ###Additional Resources###
 - [Setting default style on the box and removing ability for user to change their styles](https://blog.cpanel.com/how-to-set-a-default-style-with-paper-lantern/)
