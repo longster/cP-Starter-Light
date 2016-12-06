@@ -36,7 +36,7 @@
 	margin-right: 20px;
     margin-bottom: 35px;
 }
-.panel, 
+.panel,
 .widget {
     background-color: #fff;
 	margin-top: 20px;
@@ -44,7 +44,7 @@
 	border: 1px solid rgba(0,0,0,.075);
     border-radius: 3px;
 }
-.panel:hover, 
+.panel:hover,
 .widget:hover {
 	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,.125);
 	box-shadow: 0 0 10px 0 rgba(0,0,0,.125);
@@ -56,7 +56,7 @@
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
 }
-.widget-heading, 
+.widget-heading,
 .widget-header {
 	border-top: 0px solid #d9e0e2;
 	border-bottom: 1px solid rgba(0,0,0,.075);/* #f8f9fa;*/
@@ -69,35 +69,37 @@
 	font-size: 22px;
 	padding: 20px 25px;
 }
-.widget-heading:hover .group-header, 
+.widget-heading:hover .group-header,
 .widget-header:hover .group-header {
 	color: #ff6c2c;
 }
-.widget-heading .close, 
+.widget-heading .close,
 .widget-header .close {
 	color: #d9e0e2;
 }
-.widget-heading .close:hover, 
+.widget-heading .close:hover,
 .widget-header .close:hover {
 	color: #4f5860;
 }
 .group-header-indicator {
 	font-size: 14px;
-	margin-top: 5px;
 	color: #d9e0e2;
 }
 .group-header-indicator:hover {
 	color: #4f5860;
 }
-.widget-body, 
+.widget-body,
 .panel-body {
+	width: 100%;
     background-color: transparent;
 }
 .item {
-	background: #f9f9f9;
+	display: inline-block;
+	float: none;
+	width: 230px;
 	height: inherit;
 	margin: 10px 0 5px 15px;
-	width: 230px;
+	background: #f9f9f9;
 	border: 1px solid #f0f0f0;
 	border-radius: 2px;
 	-webkit-border-radius: 2px;
@@ -260,5 +262,3 @@ h1.page-header {
 #styleList .panel-primary>.panel-heading {
     background-color: #428bca;
 }
-
-
