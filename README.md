@@ -1,3 +1,5 @@
+**Starting in cPanel & WHM v64, we will be shipping the Light and Dark styles within the product.  Please report issues or changes you would like to see by contacting our technical support.**
+
 #cP Starter Style - LIGHT
 
 cP Starter is intended for you to modify the appearance of the cPanel interface and kickstart your own custom style. It is a professional, yet minimalistic approaches that can be used as is or adapted to match your company’s branding and logo. 
